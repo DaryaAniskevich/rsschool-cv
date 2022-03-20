@@ -39,7 +39,7 @@ I interested in Frontend development some years ago. About a year I was learning
       }<br>
    return obj;<br>
   }<br>
-}</pre></code>
+}</code>
 
 ## Work experience
 
