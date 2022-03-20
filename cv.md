@@ -25,8 +25,7 @@ I interested in Frontend development some years ago. About a year I was learning
 
 ## Code example
 
-<code><pre>
-const count = (string) => {  
+<code><pre>const count = (string) => {  
   if (string.length === 0) {
     return {}
   } else {
@@ -41,9 +40,7 @@ const count = (string) => {
       }
    return obj;
   }
-}
-</pre>
-</code>
+}</pre></code>
 
 ## Work experience
 
