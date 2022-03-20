@@ -24,7 +24,6 @@ I interested in Frontend development some years ago. About a year I was learning
 - English B1
 
 ## Code example
-
 <code><pre>const count = (string) => {  
   if (string.length === 0) {
     return {}
