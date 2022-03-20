@@ -1,0 +1,13 @@
+body {
+    background-color: black;
+    height: 100vh;
+    padding: 50px;
+}
+
+h1 {
+    color: red;
+}
+
+div {
+    color: white;
+}
