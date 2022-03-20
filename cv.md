@@ -4,6 +4,7 @@
 
 ## Contacts:
 **Email:** *darya.aniskevich@mail.ru*
+
 **LinkedIn:** *https://www.linkedin.com/in/darya-aniskevich/*
 
 
@@ -24,7 +25,8 @@ I interested in Frontend development some years ago. About a year I was learning
 
 ## Code example
 
-<code>const count = (string) => {  
+<code><pre>
+const count = (string) => {  
   if (string.length === 0) {
     return {}
   } else {
@@ -39,20 +41,22 @@ I interested in Frontend development some years ago. About a year I was learning
       }
    return obj;
   }
-}</code>
+}
+</pre>
+</code>
 
 ## Work experience
 
-1. February 2022 - present time - OOO IKSVAN:
+1. February 2022 - present time: OOO IKSVAN
 - develop the administrative part of the web app using React, Redux;
 - communicate with backend-team to discuss RestAPI structure, logics;
 - work with different frontend-libs (React-hook form, Axios, date-fns, moment).
-2. September 2016 - November 2021 - OAO Priorbank.
+2. September 2016 - November 2021: OAO Priorbank.
 
 ## Education
 
-- **November 2020 - July 2021** - TeachMeSkills - Frontend Developer
-- **2014 - 2018** - BSEU - Finance and Credit - economist
+- **November 2020 - July 2021**: TeachMeSkills - Frontend Developer
+- **2014 - 2018**: BSEU - Finance and Credit - economist
 
 ## English 
 
