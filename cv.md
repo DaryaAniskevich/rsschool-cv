@@ -24,21 +24,21 @@ I interested in Frontend development some years ago. About a year I was learning
 - English B1
 
 ## Code example
-<code><pre>const count = (string) => {  
-  if (string.length === 0) {
-    return {}
-  } else {
-      const obj = {};
-      const arr = string.split("").sort();
-      for (let i = 0; i < arr.length; i++) {
-        if(arr[i] === arr[i-1]) {
-          obj[arr[i]] += 1;
-        } else {
-          obj[arr[i]] = 1;
-        } 
-      }
-   return obj;
-  }
+<code>const count = (string) => {<br>  
+  if (string.length === 0) {<br>
+    return {}<br>
+  } else {<br>
+      const obj = {};<br>
+      const arr = string.split("").sort();<br>
+      for (let i = 0; i < arr.length; i++) {<br>
+        if(arr[i] === arr[i-1]) {<br>
+          obj[arr[i]] += 1;<br>
+        } else {<br>
+          obj[arr[i]] = 1;<br>
+        } <br>
+      }<br>
+   return obj;<br>
+  }<br>
 }</pre></code>
 
 ## Work experience
