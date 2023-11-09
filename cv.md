@@ -11,7 +11,7 @@ English Language (your English proficiency level, and if you had language practi
 
 1. Full Name: Darya Aniskevich
 2. Contact Information: [LinkedIn](https://www.linkedin.com/in/darya-aniskevich/)
-3. Brief Self-Introduction: I'm a frontend developer with a year and a half of experience in commercial developing. I would like to finish the RS School to fresh up my theoretical knowledge and know new from other participants.
+3. Brief Self-Introduction: I'm a frontend developer with one and a half of years of experience in commercial developing. I would like to finish the RS School to refresh my theoretical knowledge and learn something new from other participants.
 4. Skills: *JavaScript*, *HTML*, *CSS*, *React*, *NextJS*, *Redux*, *GitLab*, *GitHub*.
 5. Code Examples:
   ```
