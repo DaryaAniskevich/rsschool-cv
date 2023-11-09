@@ -10,7 +10,10 @@ English Language (your English proficiency level, and if you had language practi
 # RS School CV
 
 1. Full Name: **Darya Aniskevich**
-2. Contact Information: [LinkedIn](https://www.linkedin.com/in/darya-aniskevich/)
+2. Contact Information: 
+  - Minsk, Belarus
+  - [LinkedIn](https://www.linkedin.com/in/darya-aniskevich/)
+  - Discord: darya8452
 3. Brief Self-Introduction: I'm a frontend developer with one and a half of years of experience in commercial developing. I would like to finish the RS School to refresh my theoretical knowledge and learn something new from other participants.
 4. Skills: *JavaScript*, *HTML*, *CSS*, *React*, *NextJS*, *Redux*, *GitLab*, *GitHub*.
 5. Code Example:
